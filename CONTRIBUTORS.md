@@ -1,12 +1,5 @@
 Nodeunit contributors (sorted alphabeticaly)
 #Artsiom Kisialiou
 
-* team lead
-
-#Egor Gorbik
-
-* CTO
-
-#Ivan Shaveko
-
-* CFO
+- Contact information:
+ +375295719386; akr19961@gmail.com; skype: arkiseliov.
