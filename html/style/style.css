@@ -1,0 +1,103 @@
+body 
+{
+    background-color: lightblue;
+}
+
+.firstmenu ul 
+{
+	width: 100%;
+}
+
+.firstmenu li 
+{
+	width: 100%;
+}
+
+.firstmenu .navbar-default .navbar-nav>li>a 
+{
+    transition: 0s ease;
+}
+
+.firstmenu .navbar-default .navbar-nav>li>a:hover 
+{
+    color: #FF0000;
+}
+
+.icons 
+{
+	width: 20% !important
+}
+
+.navbar img 
+{
+	height: 5em;
+	margin-top: 1em;
+}
+
+.secondmenu ul 
+{
+	width: 100%;
+}
+
+.secondmenu li 
+{
+	width: 25% !important;
+	text-align: center; 
+	height: 3.5em;
+	line-height: 3.5em;
+	transition: 0.5s ease;
+}
+
+.secondmenu li:hover {
+	background-color: #B22222;
+}
+
+.secondmenu .navbar-collapse {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+.thumbnail 
+{
+	border: 5px;
+	text-align: center;
+}
+
+.thumbnail img 
+{
+	opacity: 0.5;
+	transition: 0.4s ease;
+	height: 180px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.thumbnail img:hover 
+{
+	opacity: 1;
+	height: 200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.cols h2 
+{
+	cursor: pointer;
+	color: #B22222;
+	margin-bottom: 10px;
+}
+
+.prefooter {
+	background-color: #D3D3D3;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.footer {
+	background-color: #696969;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
